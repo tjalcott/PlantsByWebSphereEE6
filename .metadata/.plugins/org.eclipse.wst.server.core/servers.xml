@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><servers>
+  <server auto-publish-setting="2" auto-publish-time="1" hostname="localhost" id="pbwee6Server " looseConfig="true" name="pbwee6Server " publishWithError="false" runtime-id="pbwee6Server at localhost" server-type="com.ibm.ws.st.server.wlp" server-type-id="com.ibm.ws.st.server.wlp" serverName="pbwee6Server" serverType="libertyServer" start-timeout="60" stop-timeout="15" timestamp="6" userDirId="pbwee6Server at localhost">
+    <list key="modules" value0="PlantsByWebSphereEE6::org.eclipse.jst.jee.server:PlantsByWebSphereEE6::jst.ear::8.0"/>
+  </server>
+</servers>
